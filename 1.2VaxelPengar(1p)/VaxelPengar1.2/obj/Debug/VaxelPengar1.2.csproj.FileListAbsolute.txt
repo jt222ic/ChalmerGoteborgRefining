@@ -1,0 +1,12 @@
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.exe.config
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.csprojResolveAssemblyReference.cache
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.exe
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.pdb
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.exe
+D:\C#programmering1\VaxelPengar1.2\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.pdb
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.exe.config
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.exe
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\bin\Debug\VaxelPengar1.2.pdb
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.exe
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.pdb
+D:\C#programmering1\1.2VaxelPengar(1p)\VaxelPengar1.2\obj\Debug\VaxelPengar1.2.csprojResolveAssemblyReference.cache

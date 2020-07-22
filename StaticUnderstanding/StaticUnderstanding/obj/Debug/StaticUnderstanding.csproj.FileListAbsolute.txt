@@ -1,0 +1,6 @@
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\bin\Debug\StaticUnderstanding.exe.config
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\bin\Debug\StaticUnderstanding.exe
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\bin\Debug\StaticUnderstanding.pdb
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\obj\Debug\StaticUnderstanding.csprojResolveAssemblyReference.cache
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\obj\Debug\StaticUnderstanding.exe
+D:\C#programmering1\StaticUnderstanding\StaticUnderstanding\obj\Debug\StaticUnderstanding.pdb

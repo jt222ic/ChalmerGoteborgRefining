@@ -1,0 +1,19 @@
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.exe
+c:\users\lucas\documents\visual studio 2013\Projects\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.pdb
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe.config
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.exe
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.pdb
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.pdb
+C:\Users\Lucas\Csharp\1DV404_lw222gz_labb_3\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.csprojResolveAssemblyReference.cache
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe.config
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.exe
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\bin\Debug\GymnasticCompetition.pdb
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.csprojAssemblyReference.cache
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.csproj.CoreCompileInputs.cache
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.exe
+D:\C#programmering1\1DV404_lw222gz_labb_3-master\GymnasticCompetition\GymnasticCompetition\obj\Debug\GymnasticCompetition.pdb

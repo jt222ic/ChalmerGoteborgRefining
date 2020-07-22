@@ -1,0 +1,6 @@
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\bin\Debug\MyOwnGoogleTranslate.exe.config
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\bin\Debug\MyOwnGoogleTranslate.exe
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\bin\Debug\MyOwnGoogleTranslate.pdb
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\obj\Debug\MyOwnGoogleTranslate.csprojResolveAssemblyReference.cache
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\obj\Debug\MyOwnGoogleTranslate.exe
+D:\C#programmering1\MyOwnGoogleTranslate\MyOwnGoogleTranslate\obj\Debug\MyOwnGoogleTranslate.pdb

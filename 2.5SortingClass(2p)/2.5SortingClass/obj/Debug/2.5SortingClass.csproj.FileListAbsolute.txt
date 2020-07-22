@@ -1,0 +1,12 @@
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\bin\Debug\2.5SortingClass.exe.config
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\obj\Debug\2.5SortingClass.csprojResolveAssemblyReference.cache
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\bin\Debug\2.5SortingClass.exe
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\bin\Debug\2.5SortingClass.pdb
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\obj\Debug\2.5SortingClass.exe
+D:\C#programmering1\2.5SortingClass\2.5SortingClass\obj\Debug\2.5SortingClass.pdb
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\bin\Debug\2.5SortingClass.exe.config
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\obj\Debug\2.5SortingClass.exe
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\obj\Debug\2.5SortingClass.pdb
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\bin\Debug\2.5SortingClass.exe
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\bin\Debug\2.5SortingClass.pdb
+D:\C#programmering1\2.5SortingClass(2p)\2.5SortingClass\obj\Debug\2.5SortingClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\bin\Debug\fundamentalsPractice.exe.config
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\bin\Debug\fundamentalsPractice.exe
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\bin\Debug\fundamentalsPractice.pdb
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\obj\Debug\fundamentalsPractice.csprojResolveAssemblyReference.cache
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\obj\Debug\fundamentalsPractice.exe
+D:\C#programmering1\fundamentalsPractice\fundamentalsPractice\obj\Debug\fundamentalsPractice.pdb

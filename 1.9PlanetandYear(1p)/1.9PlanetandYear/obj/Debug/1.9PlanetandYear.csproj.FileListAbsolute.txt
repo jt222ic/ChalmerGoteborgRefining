@@ -1,0 +1,13 @@
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.exe.config
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.exe
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.pdb
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.csprojAssemblyReference.cache
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.csproj.CoreCompileInputs.cache
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.exe
+D:\C#programmering1\1.9PlanetandYear\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.pdb
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.exe.config
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.exe
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\bin\Debug\1.9PlanetandYear.pdb
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.exe
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.pdb
+D:\C#programmering1\1.9PlanetandYear(1p)\1.9PlanetandYear\obj\Debug\1.9PlanetandYear.csprojResolveAssemblyReference.cache

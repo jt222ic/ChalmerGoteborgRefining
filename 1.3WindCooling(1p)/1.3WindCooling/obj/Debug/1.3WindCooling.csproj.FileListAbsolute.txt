@@ -1,0 +1,13 @@
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\bin\Debug\1.3WindCooling.exe.config
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\bin\Debug\1.3WindCooling.exe
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\bin\Debug\1.3WindCooling.pdb
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\obj\Debug\1.3WindCooling.exe
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\obj\Debug\1.3WindCooling.pdb
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\obj\Debug\1.3WindCooling.csprojAssemblyReference.cache
+D:\C#programmering1\1.3WindCooling\1.3WindCooling\obj\Debug\1.3WindCooling.csproj.CoreCompileInputs.cache
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\bin\Debug\1.3WindCooling.exe.config
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\bin\Debug\1.3WindCooling.exe
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\bin\Debug\1.3WindCooling.pdb
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\obj\Debug\1.3WindCooling.exe
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\obj\Debug\1.3WindCooling.pdb
+D:\C#programmering1\1.3WindCooling(1p)\1.3WindCooling\obj\Debug\1.3WindCooling.csprojResolveAssemblyReference.cache

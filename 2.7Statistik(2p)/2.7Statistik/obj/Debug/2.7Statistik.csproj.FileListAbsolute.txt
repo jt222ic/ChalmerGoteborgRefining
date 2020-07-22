@@ -1,0 +1,13 @@
+D:\C#programmering1\2.7Statistik\2.7Statistik\bin\Debug\2.7Statistik.exe.config
+D:\C#programmering1\2.7Statistik\2.7Statistik\bin\Debug\2.7Statistik.exe
+D:\C#programmering1\2.7Statistik\2.7Statistik\bin\Debug\2.7Statistik.pdb
+D:\C#programmering1\2.7Statistik\2.7Statistik\obj\Debug\2.7Statistik.exe
+D:\C#programmering1\2.7Statistik\2.7Statistik\obj\Debug\2.7Statistik.pdb
+D:\C#programmering1\2.7Statistik\2.7Statistik\obj\Debug\2.7Statistik.csprojAssemblyReference.cache
+D:\C#programmering1\2.7Statistik\2.7Statistik\obj\Debug\2.7Statistik.csproj.CoreCompileInputs.cache
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\bin\Debug\2.7Statistik.exe.config
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\bin\Debug\2.7Statistik.exe
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\bin\Debug\2.7Statistik.pdb
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\obj\Debug\2.7Statistik.exe
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\obj\Debug\2.7Statistik.pdb
+D:\C#programmering1\2.7Statistik(2p)\2.7Statistik\obj\Debug\2.7Statistik.csprojResolveAssemblyReference.cache

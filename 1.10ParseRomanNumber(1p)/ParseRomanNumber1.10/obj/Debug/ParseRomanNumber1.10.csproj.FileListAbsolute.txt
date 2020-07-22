@@ -1,0 +1,13 @@
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.exe.config
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.exe
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.pdb
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.exe
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.pdb
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.csprojAssemblyReference.cache
+D:\C#programmering1\ParseRomanNumber1.10\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.csproj.CoreCompileInputs.cache
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.exe.config
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.exe
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\bin\Debug\ParseRomanNumber1.10.pdb
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.exe
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.pdb
+D:\C#programmering1\1.10ParseRomanNumber(1p)\ParseRomanNumber1.10\obj\Debug\ParseRomanNumber1.10.csprojResolveAssemblyReference.cache

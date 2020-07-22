@@ -1,0 +1,14 @@
+D:\C#programmering1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#programmering1\Examination1.1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#programmering1\Examination1.1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#programmering1\Examination1.1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#programmering1\Examination1.1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\C#programmering1\Examination1.1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\C#programmering1\Examination1.1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C#programmering1\Examination1.1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#programmering1\1.1Uppgift(1p)\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\bin\Debug\StringFormatTestig.exe.config
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\bin\Debug\StringFormatTestig.exe
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\bin\Debug\StringFormatTestig.pdb
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\obj\Debug\StringFormatTestig.csprojResolveAssemblyReference.cache
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\obj\Debug\StringFormatTestig.exe
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\obj\Debug\StringFormatTestig.pdb
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\obj\Debug\StringFormatTestig.csprojAssemblyReference.cache
+D:\C#programmering1\StringFormatTestig\StringFormatTestig\obj\Debug\StringFormatTestig.csproj.CoreCompileInputs.cache
